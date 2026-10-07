@@ -19,12 +19,14 @@ Tenho interesse em tecnologia, programação e desenvolvimento, e estou sempre b
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60" alt="C++"/>
 &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="60" height="60" alt="Kotlin"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" width="60" height="60" alt=""/>
 
 </div>
 
 <div align="center">
 
-**Java** • **C** • **C++** • **Kotlin**
+**Java** • **C** • **C++** • **Kotlin** • **CSS**
 
 </div>
 
