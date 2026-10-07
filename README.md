@@ -1,10 +1,10 @@
 # 𝒩𝒾𝒸𝑜𝓁𝑒
 
-### 🎓 Aluna IFSP — Capivari
+### Aluna IFSP — Capivari
 
 Olá! Me chamo **Nicole Maria Antonelli** e estou cursando o **Ensino Médio Integrado ao Ensino Técnico em Informática para Internet** no IFSP — Campus Capivari.
 
-Tenho interesse em tecnologia, programação e desenvolvimento, e estou sempre buscando aprender e aprimorar meus conhecimentos. 💻✨
+Tenho interesse em tecnologia, programação e desenvolvimento, e estou sempre buscando aprender e aprimorar meus conhecimentos. 
 
 ---
 
